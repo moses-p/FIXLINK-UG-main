@@ -151,7 +151,7 @@ export default function HowItWorksPage() {
         {/* Features Section */}
         <div className="mb-20">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose ServiceConnect?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose FixLink?</h2>
             <p className="text-xl text-gray-600">Experience the difference with our platform</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">

@@ -24,7 +24,7 @@ export default function ClientRegistration() {
             <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm">SC</span>
             </div>
-            <span>ServiceConnect Uganda</span>
+            <span>FixLink Uganda</span>
           </Link>
         </div>
 
@@ -35,7 +35,7 @@ export default function ClientRegistration() {
             </div>
             <CardTitle className="text-2xl text-gray-900">Role-Based Authentication</CardTitle>
             <CardDescription className="text-lg">
-              ServiceConnect uses role-based authentication for enhanced security
+              FixLink uses role-based authentication for enhanced security
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-6">

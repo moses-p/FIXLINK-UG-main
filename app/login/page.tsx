@@ -59,7 +59,7 @@ export default function LoginPage() {
             <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm">SC</span>
             </div>
-            <span>ServiceConnect Uganda</span>
+            <span>FixLink Uganda</span>
           </Link>
           <h2 className="text-3xl font-bold text-gray-900">Welcome back</h2>
           <p className="mt-2 text-sm text-gray-600">
@@ -247,7 +247,7 @@ export default function LoginPage() {
                         type="email"
                         value={formData.email}
                         onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                        placeholder="admin@serviceconnect.ug"
+                        placeholder="admin@fixlink.ug"
                         className="pl-10 border-gray-300 focus:border-red-500 focus:ring-red-500"
                         required
                       />
