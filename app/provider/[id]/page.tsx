@@ -108,7 +108,7 @@ export default function ProviderProfile({ params }: { params: { id: string } }) 
               <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">SC</span>
               </div>
-              <span>ServiceConnect Uganda</span>
+              <span>FixLink Uganda</span>
             </Link>
             <div className="flex items-center space-x-4">
               <Link href="/services">
